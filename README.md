@@ -24,10 +24,10 @@ Use following cammand run on cmd
 
 Compile the source code using the following command:
  
-       javac TodoList.java
+       javac project.java
 
 Run the program using the following command:
  
-       java TodoList
+       java project
 
       
